@@ -1,0 +1,16 @@
+{
+  "name": "toio_de_irairabou",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chibi929/toio_de_irairabou",
+  "author": "chibi929",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@toio/scanner": "^1.0.0",
+    "node-gamepad": "^0.1.15"
+  }
+}
